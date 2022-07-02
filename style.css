@@ -1,0 +1,12 @@
+h1 {
+  font-size: 20px;
+  color: rgb(25, 222, 38);
+}
+small {
+  font-family: "Courier New", Courier, monospace;
+  background-color: beige;
+}
+
+p {
+  color: aquamarine;
+}
